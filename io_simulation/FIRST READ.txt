@@ -1,0 +1,2 @@
+I'm not the author of files in directory "io_simulation".
+This is files from book: "Impractical Python Projects. Playful Programming Activities to Make You Smarter" by Lee Vaughan
